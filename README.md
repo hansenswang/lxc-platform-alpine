@@ -5,7 +5,6 @@ A lightweight LXC platform script for creating and managing per-user containers 
 - optional IPv6 allocation
 - sshpiper + sniproxy routing
 - bundled metrics/API agent bootstrap and OpenRC integration
-- OpenRC service integration
 - runtime state files for API consumption
 
 ## Current Support
